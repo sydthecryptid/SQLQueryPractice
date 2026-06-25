@@ -1,12 +1,10 @@
-Homework 4 for CPTS 451
+### Homework 4 for CPTS 451
 
-How to Run:
+Practicing sql queries
 
--Attempting to use PGAdmin, nvm
-
-
-##Sydnee Boothby 11896367
-
-rename to CptS451_HW4_sydneeboothby.sql later
-
-use \q to quit psql
+How to run: 
+- create psql server
+- load each starter code sql file: "psql -d hw4 < course.sql"
+- "psql -d hw4" tp run server
+- copy and paste sql queries for each question in terminal
+- use \q to quit psql
